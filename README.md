@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jiro Noor</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
+👋 Hey! I’m Jiro, a sophomore at UC Berkeley studying computer science with a specialization in backend web development. Previously, I was at Shopee working with Go and SQL on the payment processing team. I really love designing and making landing pages!
 
 <p align="left"> <a href="https://twitter.com/jiro_noor" target="blank"><img src="https://img.shields.io/twitter/follow/jiro_noor?logo=twitter&style=for-the-badge" alt="jiro_noor" /></a> </p>
 
