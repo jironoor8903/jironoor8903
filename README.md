@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jiro Noor</h1>
 👋 Hey! I’m Jiro, a sophomore at UC Berkeley studying computer science with a specialization in backend web development. Previously, I was at Shopee working with Go and SQL on the payment processing team. I really love designing and making landing pages!
 
-<p align="left"> <a href="https://twitter.com/jiro_noor" target="blank"><img src="https://img.shields.io/twitter/follow/jiro_noor?logo=twitter&style=for-the-badge" alt="jiro_noor" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jiro_noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jiro_noor" height="30" width="40" /></a>
