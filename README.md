@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jiro Noor</h1>
-👋 Hey! I’m Jiro, a sophomore at UC Berkeley studying computer science with a specialization in backend web development. Previously, I was at Shopee working with Go and SQL on the payment processing team. I really love designing and making landing pages!
+👋 Hey! I’m Jiro! I'm a senior at the University of California, Berkeley, majoring in Computer Science. My passion lies in the realms of Operating Systems, Distributed Systems, and Network Architecture. I love tackling complex problems and building efficient, scalable solutions.
 
+In the past, I've immersed myself in web development and automation. Now, my focus has shifted towards exploring the intricacies of how systems operate and interact on a grand scale.
+
+When I'm not diving deep into code, I love building apps and websites. Lately, I've developed a quirky fondness for my tabby cat, who insists on being my coding buddy.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jiro_noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jiro_noor" height="30" width="40" /></a>
